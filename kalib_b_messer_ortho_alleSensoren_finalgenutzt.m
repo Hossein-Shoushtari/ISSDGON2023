@@ -1,3 +1,4 @@
+%code by: Thomas Willemsen
 clear all
 close all
 clc
